@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kizio+Josh+%F0%9F%91%8B;Mathematician+%E2%80%A2+Developer+%E2%80%A2+Artist;Building+at+the+intersection+of;math%2C+code+%26+creativity." alt="Typing SVG" />
 </h1>
 
-**BSc Mathematics · University of Malawi · Blantyre 🇲🇼**
+**BSc Mathematics · University of Malawi · Zomba 🇲🇼**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KizioTech&color=a855f7&style=flat)](https://github.com/KizioTech)
 [![GitHub followers](https://img.shields.io/github/followers/KizioTech?label=Follow&style=flat&color=a855f7)](https://github.com/KizioTech)
