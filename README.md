@@ -36,6 +36,21 @@ My work spans **analytical mathematics**, **web development**, **digital publish
 
 ## 🗂️ Projects & Repositories
 
+### ⛪ [UCOCSA](https://github.com/KizioTech/ucocsa)
+
+> The official digital platform for the **University of Malawi Church of Christ Student Association** — a Christ-centred community hub for faith, fellowship, and academic life at UNIMA.
+
+[![Live Site](https://img.shields.io/badge/🌍_Live_Site-ucocsa.vercel.app-1F3A2E?style=flat)](https://ucocsa.vercel.app)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-Enabled-0052cc)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)
+
+Full hymn library with offline PWA support · Prayer wall & praise reports · Events calendar & service programs · Rich Markdown blog · Photo gallery · Direct messaging · Real-time notifications · Admin dashboard · Role-based access control · Dynamic OG tag injection for social sharing
+
+---
+
 ### 🎵 [Sing Unto The Lord](https://github.com/KizioTech/sing-unto-the-lord)
 
 > A modern, responsive **Progressive Web App** hymnbook for the University of Malawi Church of Christ — bringing timeless hymns into the digital age.
@@ -180,6 +195,6 @@ Advanced React patterns · Mathematical modelling for real-world applications ·
 
 *"Numbers sharpen my mind, art softens it, and code brings both to life."*
 
-**© 2025 Josophat Makawa · KizioTech · Built with ❤️ from Blantyre, Malawi 🇲🇼**
+**© 2025 Josophat Makawa · KizioTech · Zomba, Malawi 🇲🇼**
 
 </div>
